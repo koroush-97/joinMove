@@ -10,7 +10,7 @@ module.exports = {
     extend: {
       colors: {
         primary: "#EAB308", // طلایی
-        secondary: "##5799ef",
+        secondary: "#5799ef",
         accent: "#A855F7", // بنفش
       },
     },
