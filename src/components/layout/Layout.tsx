@@ -8,10 +8,10 @@ interface Props {
 
 export default function Layout({ children }: Props) {
   return (
-    <>
+    <div className="bg-black">
       <Header />
       <main> {children} </main>
       <Footer />
-    </>
+    </div>
   );
 }
